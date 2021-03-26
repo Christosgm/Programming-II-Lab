@@ -3,7 +3,7 @@ Welcome to the Programming II Lab repository!
 Here you will find the source code of the game tic-tac-toe we are implementing!
 
 # Structure
-- [ ] Menu
+- [x] Menu
 - [ ] Input System
 - [ ] Input Validation
 - [ ] Representation
