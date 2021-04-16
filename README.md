@@ -7,6 +7,6 @@ Here you will find the source code of the game tic-tac-toe we are implementing!
 - [x] Input System (Without save/load system)
 - [x] Input Validation (Without save/load system)
 - [x] Representation
-- [ ] Game Implementation (Done winning conditions and further input handling)
+- [x] Game Implementation (Done winning conditions and further input handling)
 - [ ] Save System
 - [ ] Load System
