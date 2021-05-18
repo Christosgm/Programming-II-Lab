@@ -8,5 +8,5 @@ Here you will find the source code of the game tic-tac-toe we are implementing!
 - [x] Input Validation (Without save/load system)
 - [x] Representation
 - [x] Game Implementation
-- [ ] Save System
-- [ ] Load System
+- [x] Save System
+- [x] Load System
